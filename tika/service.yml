@@ -1,0 +1,20 @@
+---
+apiVersion: v1
+kind: Service
+
+metadata:
+  name: paperless-tika
+  labels:
+    app.kubernetes.io/name: paperless
+    app.kubernetes.io/component: tika
+
+spec:
+  selector:
+    app.kubernetes.io/name: paperless
+    app.kubernetes.io/component: tika
+
+  ports:
+    - name: http
+      port: 9998
+
+...
