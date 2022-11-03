@@ -25,6 +25,6 @@ secretGenerator:
 images:
   - name: paperless-tika
     newName: ghcr.io/paperless-ngx/tika
-    newTag: "2.1.0-minimal"
+    newTag: "2.5.0-minimal"
 
 ...
