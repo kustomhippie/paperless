@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.1.0](https://github.com/kustomhippie/paperless/compare/v1.0.0...v1.1.0) (2023-06-19)
+
 ## 1.0.0 (2023-06-05)
 
 
