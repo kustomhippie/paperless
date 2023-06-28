@@ -25,6 +25,6 @@ secretGenerator:
 images:
   - name: paperless-server
     newName: ghcr.io/paperless-ngx/paperless-ngx
-    newTag: "1.16.4"
+    newTag: "1.16.5"
 
 ...
