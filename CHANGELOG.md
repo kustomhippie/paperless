@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/kustomhippie/paperless/compare/v1.1.2...v2.0.0) (2023-07-17)
+
+
+### Features
+
+* **major:** update actionhippie/kustomize action to v2 ([59fbba6](https://github.com/kustomhippie/paperless/commit/59fbba66bc6d569d68b7180953f5964ef7a840d8))
+
 ## [1.1.2](https://github.com/kustomhippie/paperless/compare/v1.1.1...v1.1.2) (2023-07-03)
 
 
