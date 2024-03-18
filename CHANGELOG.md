@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.1](https://github.com/kustomhippie/paperless/compare/v3.6.0...v3.6.1) (2024-03-18)
+
+
+### Bugfixes
+
+* **deps:** update ghcr.io/paperless-ngx/paperless-ngx docker tag to v2.6.3 ([3ebe933](https://github.com/kustomhippie/paperless/commit/3ebe9339b6065dff29d7c3fe3af508517b2d9bcf))
+
 ## [3.6.0](https://github.com/kustomhippie/paperless/compare/v3.5.2...v3.6.0) (2024-03-11)
 
 
