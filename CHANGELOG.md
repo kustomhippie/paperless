@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.15.1](https://github.com/kustomhippie/paperless/compare/v3.15.0...v3.15.1) (2025-04-21)
+
+
+### Bugfixes
+
+* **deps:** update ghcr.io/paperless-ngx/paperless-ngx docker tag to v2.15.2 ([#96](https://github.com/kustomhippie/paperless/issues/96)) ([6334e08](https://github.com/kustomhippie/paperless/commit/6334e08eab422cac7cfc84837702d1ffb27137ef))
+* **deps:** update ghcr.io/paperless-ngx/paperless-ngx docker tag to v2.15.3 ([#97](https://github.com/kustomhippie/paperless/issues/97)) ([ed84805](https://github.com/kustomhippie/paperless/commit/ed84805689579f7d45edf7b31ea39d9509e7f68d))
+
 ## [3.15.0](https://github.com/kustomhippie/paperless/compare/v3.14.2...v3.15.0) (2025-04-14)
 
 
